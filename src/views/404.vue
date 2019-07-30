@@ -1,5 +1,5 @@
 <template>
-  <div class="home">
+  <div class="rror-page">
 
   </div>
 </template>
@@ -11,7 +11,7 @@ import { Component, Vue } from "vue-property-decorator";
   components: {}
 })
 
-export default class Home extends Vue {
+export default class Errors extends Vue {
 
 }
 </script>
